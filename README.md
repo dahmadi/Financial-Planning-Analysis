@@ -1,5 +1,7 @@
 # Unit 5 - Financial Planning
 
+Grade: 100/100
+
 ![Financial Planner](Images/financial-planner.png)
 
 ## Background
